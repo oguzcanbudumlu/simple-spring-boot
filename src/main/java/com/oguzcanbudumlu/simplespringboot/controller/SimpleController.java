@@ -1,4 +1,4 @@
-package com.oguzcanbudumlu.simplespringboot;
+package com.oguzcanbudumlu.simplespringboot.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;

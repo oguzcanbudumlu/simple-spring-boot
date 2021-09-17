@@ -1,4 +1,4 @@
-package com.oguzcanbudumlu.simplespringboot;
+package com.oguzcanbudumlu.simplespringboot.security;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
