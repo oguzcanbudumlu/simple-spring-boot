@@ -1,8 +1,11 @@
 package com.oguzcanbudumlu.simplespringboot.persistence.model;
 
+import lombok.Getter;
+
 import javax.persistence.*;
 
 @Entity
+@Getter
 public class Book {
 
     @Id
